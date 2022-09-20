@@ -1,0 +1,1 @@
+document.querySelector('.p-footer .p-grid').style.backgroundColor="orange";
